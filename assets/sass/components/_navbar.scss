@@ -1,0 +1,36 @@
+.navbar-custom {
+  background-color: #1C1C1C;
+}
+.navbar {
+  height: 6.8125em;
+}
+.fab , .fa-vk {
+  color: white;
+  font-size: 2.5625em;
+}
+.navbar-brand {
+margin-left: 3.5em;
+}
+.nav-link {
+  color: #27B58A;
+  font-size: 1.5625em;
+  font-family: Impact;
+  margin-right: 1.72em;
+  text-transform: uppercase;
+}
+.nav-link :hover {
+  text-decoration: none;
+  color: #27B58A;
+}
+.navbar-toggler {
+  color: #27B58A;
+}
+
+.collapse {
+  background-color: #1C1C1C;
+  width: 100%;
+  text-align: center;
+}
+.navbar-toggler-icon {
+  border-color: transparent;
+}
